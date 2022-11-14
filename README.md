@@ -1,2 +1,2 @@
 # Projects-from-IBM-Data-Science
-All the ones I did on IBM Watson Studio
+I completed these projects as part of the IBM Data Science course.  All Projects were done using IBM Watson Studio
